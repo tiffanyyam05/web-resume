@@ -17,7 +17,7 @@ function Home() {
           education, work experience, projects, skills, and certifications. 
           Feel free to contact me at the email below.
         </p>
-        <img className="profile-photo" src="/public/tiffanyyam.jpg" alt="Tiffany Yam"/>
+        <img className="profile-photo" src="/photos/tiffanyyam.jpg" alt="Tiffany Yam"/>
         </div>
         <div className="bubble-list">
         <span className="pill">New York, NY</span>

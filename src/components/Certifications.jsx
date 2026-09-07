@@ -9,7 +9,7 @@ function Certifications() {
       <div class="grid">
         <article class="entry">
           <h2>Intermediate Technical Interview Prep</h2>
-          <img className="cert" src="/public/TIP 102.png" alt="TIP 102 certificate"/>
+          <img className="cert" src="/photos/TIP 102.png" alt="TIP 102 certificate"/>
           <br/>
           <p><strong>Skills used:</strong></p>
           <div className="bubble-list">
@@ -25,7 +25,7 @@ function Certifications() {
       <div class="grid">
         <article class="entry">
           <h2>Intro to Web Development</h2>
-          <img className="cert" src="/public/WEB 101.png" alt="WEB 101 certificate"/>
+          <img className="cert" src="/photos/WEB 101.png" alt="WEB 101 certificate"/>
           <br/>
           <p><strong>Skills used:</strong></p>
           <div className="bubble-list">
