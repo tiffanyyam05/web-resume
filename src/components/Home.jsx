@@ -6,8 +6,8 @@ function Home() {
   const [page, setPage] = useState(0);
   const pages = [
     <>
-      <div className="eyebrow">Welcome</div>
-      <h2>Hi, I'm Tiffany Yam.</h2>
+      <div className="eyebrow">Home</div>
+      <h2>About Me</h2>
       <div className="home-intro">
         <p>
           I'm a computer science student interested in web development and 
