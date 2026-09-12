@@ -8,7 +8,12 @@ function Projects() {
       <div className="eyebrow">Projects</div>
       <h2>Online Resume</h2>
       <p>
-        
+        The current website you are looking at right now. Each section 
+        (Home, Education, Experience, etc) is a separate React component, 
+        which allows me to organize content and reuse some code. I used 
+        CSS media queries for responsive design, so the website is 
+        functional for all screen sizes. The website is deployed using 
+        Vercel, so it's constantly available with just one click of a link. 
       </p>
       <p><strong>Skills used:</strong></p>
       <div className="bubble-list">
@@ -21,7 +26,6 @@ function Projects() {
     <>
       <div className="eyebrow">Projects</div>
       <h2>Roblox Escape Room</h2>
-      <p className="meta">Lua · Roblox Studio · 3D Design</p>
       <p>
         I am currently working on a Roblox multiplayer escape room 
         game. The main setting is a large, vintage style library where 
@@ -38,9 +42,6 @@ function Projects() {
         <span className="pill">Game Design & Development</span>
         <span className="pill">3D Modeling</span>
       </div>
-      <h2>URL Shortener</h2>
-      <p className="meta">MongoDB · Web Development</p>
-      <p>A URL-shortening project using MongoDB for data storage.</p>
     </>
   ];
   return <section className="section-with-controls"><article className="resume-page">{pages[page]}</article><PageControls page={page} total={pages.length} onPrevious={() => setPage(page - 1)} onNext={() => setPage(page + 1)} /></section>;
