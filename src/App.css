@@ -363,3 +363,48 @@ body {
     }
 }
 
+@media (max-width: 600px) {
+    .header {
+        padding: 18px 16px;
+    }
+
+    .header p {
+        font-size: 0.85rem;
+    }
+
+    .content {
+        padding: 16px 10px;
+    }
+
+    .resume-page {
+        padding: 24px 18px;
+        border-radius: 16px;
+    }
+
+    .resume-page h2 {
+        font-size: 1.75rem;
+    }
+
+    .entry {
+        padding: 16px;
+    }
+
+    .entry-header {
+        flex-direction: column;
+        gap: 4px;
+    }
+
+    .list ul {
+        grid-template-columns: 1fr;
+    }
+
+    .profile-photo {
+        width: 160px;
+        height: 160px;
+    }
+
+    .pill {
+        padding: 10px 14px;
+        font-size: 0.85rem;
+    }
+}

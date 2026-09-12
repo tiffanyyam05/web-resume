@@ -23,17 +23,17 @@ function Education() {
           <div className="list">
             <p>Relevant coursework:</p>
             <ul>
-              <li>Introduction to Databases</li>
-              <li>Introduction to Artificial Intelligence</li>
               <li>Software Engineering</li>
               <li>Full-Stack App Design & Development</li>
               <li>Web Application Development</li>
+              <li>Introduction to Databases</li>
               <li>Foundations of Data Science</li>
-              <li>Fundamentals of Computing Systems</li>
+              <li>Introduction to Artificial Intelligence</li>
+              <li>Fundamentals of Computer Systems</li>
+              <li>Computer Systems</li>
               <li>Analysis of Algorithms</li>
               <li>Concepts of Programming Languages</li>
               <li>Probability in Computing</li>
-              <li>Computer Systems</li>
               <li>Geometric Algorithms</li>
               <li>Combinatoric Structures</li>
             </ul>
