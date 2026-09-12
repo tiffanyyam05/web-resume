@@ -10,7 +10,7 @@ function Home() {
       <h2>About Me</h2>
       <div className="home-intro">
         <p>
-          I'm a computer science student interested in web development and 
+          Hi, I'm Tiffany. I'm a computer science student interested in web development and 
           game development, and I'm currently making my own Roblox game. 
           <br/><br/>
           Welcome to my online resume. On this website you can find my 
